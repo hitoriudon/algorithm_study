@@ -10,7 +10,6 @@
 | 2587  |   대표값 2    | ![Python](https://img.shields.io/badge/BRONZEII-CD7F32?style=flat) |   ✅   |
 | 25305 |   커트라인    | ![Python](https://img.shields.io/badge/BRONZEII-CD7F32?style=flat) |   ✅   |
 | 10989 | 수 정렬하기 3 | ![Python](https://img.shields.io/badge/BRONZEI-CD7F32?style=flat)  |   ✅   |
-
 |2108
 |1427
 |11650
