@@ -19,11 +19,19 @@
 |18870|좌표 압축|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat)
 |2751|수 정렬하기 2|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)
 
+### week1 : 정렬 (extra)
+|   #   |     Title     |                             Difficulty                             | Status |
+| :---: | :-----------: | :----------------------------------------------------------------: | :----: |
+|10817|세 수| ![Python](https://img.shields.io/badge/BRONZEIII-CD7F32?style=flat) |   ✅   |
+|11399|ATM|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|1920|수 찾기|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|1931|회의실 배정|![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat)
+
 <!--
 금: #D5A11E
 은: #A3A3A3
 동: #CD7F32
-I	11	
+1	I
 2	II	
 3	III	
 4	IV
