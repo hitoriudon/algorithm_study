@@ -12,12 +12,15 @@
 import sys
 input = sys.stdin.readline
 N = int(input())
-
 data = []
 
 for i in range (N):
     age, name = input().split()
-    data.append([int(age), i, name])
+    data.append([int(age), i, name]) 
 
 for user in sorted(data):
     print(user[0], user[2])
+    
+# 18 line: 
+# index인 i를 나이 다음에 넣으면, sorted를 사용했을 때 나이로 우선 정렬한 뒤,
+# 들어온 순서대로 정렬하게 됨. 정답 출력할 때는 [0]하고 [2]만 출력하면 됨~ (나이, 이름)
