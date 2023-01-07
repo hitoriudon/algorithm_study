@@ -16,8 +16,8 @@
 |11651|좌표 정렬하기2|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
 |1181|단어 정렬|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
 |10814|나이순 정렬|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
-|18870|좌표 압축|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat)
-|2751|수 정렬하기 2|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)
+|18870|좌표 압축|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |   ✅   |
+|2751|수 정렬하기 2|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
 
 ### week1 : 정렬 (extra)
 |   #   |     Title     |                             Difficulty                             | Status |
