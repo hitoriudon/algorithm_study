@@ -16,7 +16,7 @@ import sys
 input = sys.stdin.readline
 
 N = int(input())
-my_cards = set(map(int, input().split())) # sorted(list(set)) 굳이 할 이유가 없음. 시간 1/5 단축.
+my_cards = sorted(list(set(map(int, input().split())))) # sorted(list(set)) 굳이 할 이유가 없음. 시간 1/5 단축.
 M = int(input())
 your_cards = list(map(int, input().split()))
 
@@ -36,8 +36,8 @@ for card in your_cards:
         print(0, end=" ")
 
 # using 'in'
-for your_card in your_cards:
+'''for your_card in your_cards:
     if your_card in my_cards:
         print(1, end=" ")
     else:
-        print(0, end=" ")
+        print(0, end=" ")'''
