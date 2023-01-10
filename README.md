@@ -53,7 +53,7 @@
 |15235|Olympiad Pizza|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |      |
 |  |  |  |  |
 |1158|오세푸스 문제|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
-|1966|프린터 큐|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
+|1966|프린터 큐|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |   ✅   |
 |18258|큐 2|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |2161|카드1|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |      |
 |13335|트럭|![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |      |
