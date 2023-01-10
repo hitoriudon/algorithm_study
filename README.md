@@ -18,7 +18,7 @@
 |10814|나이순 정렬|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
 |18870|좌표 압축|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |   ✅   |
 |2751|수 정렬하기 2|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
-|  추가 문제  |
+|  |  |  |  |
 |10817|세 수| ![Python](https://img.shields.io/badge/BRONZEIII-CD7F32?style=flat) |   ✅   |
 |11399|ATM|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |1920|수 찾기|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
@@ -36,6 +36,7 @@
 |10828|스택|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |10773|제로|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
 |1874|스택 수열|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
+|  |  |  |  |
 |17608|막대기|![Python](https://img.shields.io/badge/BRONZEII-CD7F32?style=flat) |      |
 |4949|균형잡힌 세상|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
 |10799|쇠막대기|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |      |
@@ -50,6 +51,7 @@
 |2164|카드2|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |11866|오세푸스 문제0|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |      |
 |15235|Olympiad Pizza|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |      |
+|  |  |  |  |
 |1158|오세푸스 문제|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
 |1966|프린터 큐|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
 |18258|큐 2|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
@@ -64,6 +66,7 @@
 |1835|카드|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
 |1021|회전하는 큐|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
 |2346|풍선 터뜨리기|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
+|  |  |  |  |
 |13417|카드 문자열|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
 |18115|카드 놓기|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
 |20301|반전 요세푸스|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
@@ -78,6 +81,7 @@
 |11279|최대 힙|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |      |
 |11286|절대값 힙|![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |      |
 |2075|N번째 큰 수|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |      |
+|  |  |  |  |
 
 <!--
 금: #D5A11E
