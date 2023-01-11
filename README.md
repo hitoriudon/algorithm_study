@@ -34,7 +34,7 @@
 |  |   #   |     Title     |                             Difficulty                             | Status |
 |:---:| :---: | :-----------: | :----------------------------------------------------------------: | :----: |
 |1|9012|괄호|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
-|2|12|10828|스택|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|2|10828|스택|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |3|10773|제로|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
 |4|1874|스택 수열|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
 |  |  |  |  |  | 
