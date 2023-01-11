@@ -62,8 +62,8 @@
 
 |   #   |     Title     |                             Difficulty                             | Status |
 | :---: | :-----------: | :----------------------------------------------------------------: | :----: |
-|10866|덱|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
-|1835|카드|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
+|10866|덱|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|1835|카드|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |1021|회전하는 큐|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
 |2346|풍선 터뜨리기|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
 |  |  |  |  |
