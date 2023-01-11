@@ -27,6 +27,7 @@
 |10815|숫자 카드|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
 |10816|숫자 카드 2|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |1764|듣보잡|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|2217|로프|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 
 ### week2 : 스택
 
