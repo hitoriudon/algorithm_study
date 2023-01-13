@@ -35,8 +35,8 @@
 |:---:| :---: | :-----------: | :----------------------------------------------------------------: | :----: |
 |1|9012|괄호|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |2|10828|스택|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
-|3|10773|제로|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
-|4|1874|스택 수열|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
+|3|10773|제로|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|4|1874|스택 수열|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |   ✅   |
 |  |  |  |  |  | 
 |5|17608|막대기|![Python](https://img.shields.io/badge/BRONZEII-CD7F32?style=flat) |      |
 |6|4949|균형잡힌 세상|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
@@ -65,8 +65,8 @@
 |:---:| :---: | :-----------: | :----------------------------------------------------------------: | :----: |
 |1|10866|덱|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |2|1835|카드|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
-|3|1021|회전하는 큐|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
-|4|2346|풍선 터뜨리기|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
+|3|1021|회전하는 큐|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅  |
+|4|2346|풍선 터뜨리기|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |   ✅   |
 |  |  |  |  |  |
 |5|13417|카드 문자열|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
 |6|18115|카드 놓기|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |      |
