@@ -83,7 +83,7 @@
 |3|11286|절대값 힙|![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |   ✅   |
 |4|2075|N번째 큰 수|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |   ✅   |
 |  |  |  |  |  |
-
+|5|1417|국회의원 선거|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ❌   |
 <!--
 금: #D5A11E
 은: #A3A3A3
