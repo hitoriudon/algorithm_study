@@ -50,8 +50,8 @@
 |:---:| :---: | :-----------: | :----------------------------------------------------------------: | :----: |
 |1|10845|큐|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |2|2164|카드2|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
-|3|11866|오세푸스 문제0|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |      |
-|4|15235|Olympiad Pizza|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |      |
+|3|11866|오세푸스 문제0|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
+|4|15235|Olympiad Pizza|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
 |  |  |  |  |  |
 |5|1158|오세푸스 문제|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |      |
 |6|1966|프린터 큐|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |   ✅   |
