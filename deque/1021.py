@@ -20,12 +20,12 @@ queue = deque([i+1 for i in range (n)])
 
 cnt = 0
 for x in loc:
-    idx = queue.index(x)
-    left, right = idx, len(queue) - idx
-    if x == queue[0]:
+    idx = queue.index(x) # 현재 내가 찾아야 하는 값인 x가 queue 어디에 있는지 index()로 확인.
+    left, right = idx, len(queue) - idx # left 값이 더 크면 right로 rotate, right 값이 더 크면 left로 rotate.
+    if x == queue[0]: #
         queue.popleft()
     elif left <= right:
-        queue.rotate(-left) # 왼쪽
+        queue.rotate(-left) # 왼쪽. - 유념!
         cnt += left
         queue.popleft()
     elif left > right:
@@ -35,4 +35,6 @@ for x in loc:
         
 print(cnt)
 
-# idx를 생각하는 게 좀 어려웠다
+# idx를 생각하는 게 좀 어려웠다.
+# 그리고 문제 설명이 진짜 이해가 잘 안 가서, 이해하는 것만 한 시간 걸렸음...
+# rotate 쓸 때, 막 쓰지 말고 몇 번 테스트 해보고 써야할 거 같다.
