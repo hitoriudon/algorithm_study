@@ -84,6 +84,29 @@
 |4|2075|N번째 큰 수|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |   ✅   |
 |  |  |  |  |  |
 |5|1417|국회의원 선거|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ❌   |
+
+### week3 : 브루트 포스
+
+| |   #   |     Title      |                               Difficulty                               | Status |
+|:---:| :---: | :------------: | :--------------------------------------------------------------------: | :----: |
+|1|2798|블랙잭|![Python](https://img.shields.io/badge/BRONZE%20II-CD7F32?style=flat) |   ✅   |
+|2|2231|분해합|![Python](https://img.shields.io/badge/BRONZE%20II-CD7F32?style=flat) |   ✅   |
+|3|7568|덩치|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)
+|4|1018|체스판 다시 칠하기|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat)
+|5|1436|영화감독 숌|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)
+|6|2309|일곱 난쟁이|![Python](https://img.shields.io/badge/BRONZE%20I-CD7F32?style=flat)
+|7|3085|사탕 게임|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat)
+|8|2503|숫자 야구|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat)
+|9|1018|체스판 다시 칠하기|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat)
+|10|2635|수 이어가기|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)
+|11|1051|숫자 정사각형|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat)
+|12|1038|감소하는 수|![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)
+|  |  |  |  |  |
+|13|4673|셀프 넘버|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)
+
+
+
+
 <!--
 금: #D5A11E
 은: #A3A3A3
