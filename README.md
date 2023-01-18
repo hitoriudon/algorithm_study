@@ -91,10 +91,10 @@
 |:---:| :---: | :------------: | :--------------------------------------------------------------------: | :----: |
 |1|2798|블랙잭|![Python](https://img.shields.io/badge/BRONZE%20II-CD7F32?style=flat) |   ✅   |
 |2|2231|분해합|![Python](https://img.shields.io/badge/BRONZE%20II-CD7F32?style=flat) |   ✅   |
-|3|7568|덩치|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)
-|4|1018|체스판 다시 칠하기|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat)
-|5|1436|영화감독 숌|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)
-|6|2309|일곱 난쟁이|![Python](https://img.shields.io/badge/BRONZE%20I-CD7F32?style=flat)
+|3|7568|덩치|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
+|4|1018|체스판 다시 칠하기|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|5|1436|영화감독 숌|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
+|6|2309|일곱 난쟁이|![Python](https://img.shields.io/badge/BRONZE%20I-CD7F32?style=flat) |   ✅   |
 |7|3085|사탕 게임|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat)
 |8|2503|숫자 야구|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat)
 |9|1018|체스판 다시 칠하기|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat)
