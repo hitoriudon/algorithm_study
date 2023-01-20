@@ -102,7 +102,7 @@
 |11|1051|숫자 정사각형|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat)
 |12|1038|감소하는 수|![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)
 |  |  |  |  |  |
-|13|4673|셀프 넘버|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)
+|13|4673|셀프 넘버|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
 
 
 
