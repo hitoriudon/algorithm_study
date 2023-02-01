@@ -120,6 +120,21 @@
 |9|1904|01타일|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |   ✅   |
 |10|1912|연속합|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |   ✅   |
 
+### week5: DFS, BFS
+
+| |   #   |     Title      |                               Difficulty                               | Status |
+|:---:| :---: | :------------: | :--------------------------------------------------------------------: | :----: |
+|1|1260|DFS와 BFS|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) 
+|2|2606|바이러스|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) 
+|3|2178|미로 탐색|![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) 
+|4|7576|토마토|![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat) 
+|5|2667|단지 번호 붙이기|![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) 
+|6|1012|신나는 함수 실행|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) 
+|7|1697|숨바꼭질|![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) 
+|8|14502|연구소|![Python](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) 
+|9|4963|섬의 개수|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) 
+|10|10026|적록색약|![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat) 
+|11|7569|토마토|![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat) 
 
 
 
