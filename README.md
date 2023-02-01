@@ -99,12 +99,27 @@
 |8|2503|숫자 야구|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |   ✅   |
 |9|1065|한수|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 |10|2635|수 이어가기|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
-|11|1051|숫자 정사각형|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat)
-|12|1038|감소하는 수|![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)
+|11|1051|숫자 정사각형|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|12|1038|감소하는 수|![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat) |   ✅   |
 |  |  |  |  |  |
 |13|4673|셀프 넘버|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
 |14|1476|날짜 계산|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
 
+### week4: Dynamic Programming, Greedy
+
+| |   #   |     Title      |                               Difficulty                               | Status |
+|:---:| :---: | :------------: | :--------------------------------------------------------------------: | :----: |
+|1|11047|동전 0|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|2|11399|ATM![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|3|1541|잃어버린 괄호|![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |   ✅   |
+|4|13305|주유소|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |   ✅   |
+|5|24416|피보나치 1|![Python](https://img.shields.io/badge/BRONZE%20I-CD7F32?style=flat) |   ✅   |
+|6|9184|일곱 난쟁이|![Python](https://img.shields.io/badge/BRONZE%20I-CD7F32?style=flat) |   ✅   |
+|7|9461|파도반 수열|![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |   ✅   |
+|8|1149|RGB거리|![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |   ✅   |
+|9|1904|한수|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
+|10|1912|수 이어가기|![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |
+|11|1051|숫자 정사각형|![Python](https://img.shields.io/badge/SILVER%20IV-A3A3A3?style=flat) |   ✅   |
 
 
 
