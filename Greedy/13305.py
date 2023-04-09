@@ -1,9 +1,9 @@
 import sys
 input = sys.stdin.readline
 
-n = int(input())
+n = int(input()) # 1
 
-distance = list(map(int, input().split()))
+distance = list(map(int, input().split())) 
 price = list(map(int, input().split()))
 
 best_price = price[0]
