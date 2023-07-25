@@ -25,7 +25,7 @@ dxs, dys = [1, 0, 0, -1], [0, -1, 1, 0] # Down Left Right Up
 r, c = int(r), int(c)
 
 def is_range(x, y):
-    return x > 0 and y > 0 and x <= n and y <= n
+    return x > 0 and y > 0 and x <= n and y <= n # 이게 포인트였네
 
 current_direction = loc[d]
 for i in range (t):
