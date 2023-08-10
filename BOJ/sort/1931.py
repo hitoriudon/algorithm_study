@@ -14,14 +14,18 @@
 import sys
 input = sys.stdin.readline
 
-N = int(input())
+n = int(input())
 meeting = []
-for i in range (N):
+for _ in range (n):
     meeting.append(tuple(map(int, input().split())))
 
+meeting.sort(key = lambda x: (x[1], x[0]))
+
 answer = 1
-meeting = sorted(meeting, key = lambda x : x[1])
-print(meeting)
-for meet in meeting:
-    
+end = meeting[0][1]
+
+for i in range (1, n):
+    if meeting[i][0] >= end:
+        answer += 1
+        end = meeting[i][1]
 print(answer)
