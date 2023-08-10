@@ -15,8 +15,13 @@ import sys
 input = sys.stdin.readline
 
 N = int(input())
-candidates = []
+meeting = []
 for i in range (N):
-    candidates.append(list(map(int, input().split())))
+    meeting.append(tuple(map(int, input().split())))
+
+answer = 1
+meeting = sorted(meeting, key = lambda x : x[1])
+print(meeting)
+for meet in meeting:
     
-print(candidates)
+print(answer)
