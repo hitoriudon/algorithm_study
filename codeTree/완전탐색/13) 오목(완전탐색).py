@@ -10,7 +10,7 @@ def is_range2(y):
 board = [list(map(int, input().split())) for _ in range (19)]
 
 flag = False
-# answer을 리스트에 담아야 하나?
+
 for i in range (19):
     for j in range (19):
         # 가로 체크
