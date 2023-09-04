@@ -9,8 +9,23 @@
 # 입력: 9999, 888888
 # 출력: 2, 6
 
-from collections import Counter
+string = input()
+ans = 1
+nums = [1, 1, 1, 1, 1, 1, 2, 1, 1, 2]
 
-n = Counter(input())
-
-print(n.most_common())
+for s in string:
+    if s != '6' and s != '9':
+        nums[int(s)] -= 1
+        
+    if s == '6' or s == '9':
+        nums[6] -= 1
+        nums[9] -= 1 
+    if -1 in nums:
+        for i in range (10):
+            if i == 6 or i == 9:
+                nums[6] += 1
+                nums[9] += 1
+            else:    
+                nums[i] += 1
+        ans += 1
+print(ans)
