@@ -1,3 +1,4 @@
+# 14889, 스타트와 링크, S2
 from itertools import combinations
 import sys
 MAX_INT = sys.maxsize
@@ -24,7 +25,7 @@ for start, link in start_link:
 
 print(diff)
 
-# 완전탐색
+# 완전탐색로 풀었음
 # 짝지어야 하는 경우의 수를 combinations로 다 가지고 있는 게 효율적이라고 판단했음
 # 특히, combinations의 리턴 배열은 맨 앞과 맨 뒤 인덱스가 서로 달라서 list1[i]와 list1[-(i+1)]을 짝지어서 새로운 배열에 저장했음.
 # 그 뒤로는 그냥 그래프 완전 탐색. 3중 반복문을 사용한 이유는 보면 알듯
