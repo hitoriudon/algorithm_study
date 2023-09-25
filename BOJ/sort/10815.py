@@ -20,7 +20,7 @@ my_cards = sorted(list(set(map(int, input().split())))) # sorted(list(set)) êµ³ì
 M = int(input())
 your_cards = list(map(int, input().split()))
 
-#binary search
+# binary search
 for card in your_cards:
     start, end = 0, N - 1
     while start <= end:
