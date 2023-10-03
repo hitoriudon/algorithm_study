@@ -1,25 +1,20 @@
 # 12100, 2048(easy), G2
-# L D R U 다 해보고 최대값을 기록해서 그걸 다음 grid로 확정지어야해.
+# L D R U 다 해보고 최대값을 기록해서 그걸 다음 grid로 확정지어야해. -> 틀렸음!!! 그냥 다 해봐야 해 브루트 포스로
 # 다음 인덱스는 skip 방식으로
-# row에 대한 포문이 끝났을 때 skipidx가 마지막 인덱스(길이 - 1)이 아니라면 temp에 추가해주는 방향으로
+# row에 대한 포문이 끝났을 때 skipidx가 마지막 인덱스(길이 - 1)이 아니라면 temp에 추가해주는 방향으로 -> 굳이 이렇게 안 해도 됨
+import copy
+
 def Print():
     for line in grid:
         for num in line:
             print(num, end=" ")
         print()
     print()
-
-import copy
-
-n = int(input())
-grid = [list(map(int, input().split())) for _ in range (n)]
-
-for _ in range (5):
-    max_num_list = []
-    candidate = []
-    for i in range (4): # L D R U
+    
+def run(nums, grid):
+    for num in nums:
         temp = copy.deepcopy(grid)
-        for _ in range (i): # 세팅
+        for _ in range (num):
             temp = list(zip(*temp[::-1]))
         for k in range (len(temp)):
             temp[k] = list(temp[k])
@@ -44,26 +39,29 @@ for _ in range (5):
             
             for j in range (n):
                 temp[r][j] = temp_row[j]
-        
-        for _ in range (4 - i): # 돌려놓기
+
+        for _ in range (n - num):
             temp = list(zip(*temp[::-1]))
         for k in range (len(temp)):
             temp[k] = list(temp[k])
         
-        candidate.append(temp)
-        
-        temp_max_num = 0
-        for line in temp:
-            temp_max_num = max(temp_max_num, max(line))
-        temp_max_num_cnt = 0
-        for line in temp:
-            temp_max_num_cnt += line.count(temp_max_num)
-        max_num_list.append((temp_max_num, temp_max_num_cnt))
-        
-    select = max_num_list.index(max(max_num_list))
-    grid = copy.deepcopy(candidate[select])
-    Print()
+        grid = copy.deepcopy(temp)      
+    
+    max_num = 0
+    for line in grid:
+        max_num = max(max_num, max(line))
+    
+    return max_num
+
+n = int(input())
+grid = [list(map(int, input().split())) for _ in range (n)]
 ans = 0
-for line in grid:
-    ans = max(ans, max(line))
+for a in range (4):
+    for b in range (4):
+        for c in range (4):
+            for d in range (4):
+                for e in range (4):
+                    seq = [a,b,c,d,e]
+                    ans = max(ans, run(seq, grid))
+
 print(ans)
