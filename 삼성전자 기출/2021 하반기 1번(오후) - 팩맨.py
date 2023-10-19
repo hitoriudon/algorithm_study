@@ -109,7 +109,6 @@ for turn in range (t):
                 # 팩맨 한 칸 전진
                 px += eat_dxs[move]
                 py += eat_dys[move]
-                print(px, py)
                 
                 # 몬스터 사망 처리
                 removed = grid[px][py]

@@ -67,13 +67,6 @@ def find_attacked(candidate):
     
     return candidate[0]    
 
-def out_of_range(x, y):
-    if x < 0: return (n-1, y)
-    elif x >= n: return (0, y)
-    elif y < 0: return (x, m-1)
-    elif y >= m: return (x, 0)
-    return False
-
 def is_range(x, y):
     return x >= 0 and x < n and y >= 0 and y < m
 
@@ -102,24 +95,7 @@ def lazer():
                 back_x[nx][ny] = x
                 back_y[nx][ny] = y
                 queue.append((nx, ny))
-            # nx, ny = x + dx, y + dy
-            # if is_range(nx, ny) and not visited[nx][ny] and grid[nx][ny] != 0:
-            #     queue.append((nx, ny))
-            #     visited[nx][ny] = True
-            #     back_x[nx][ny] = x
-            #     back_y[nx][ny] = y
-            # elif out_of_range(nx, ny):
-            #     nx, ny = out_of_range(nx, ny)
-            #     if not visited[nx][ny] and grid[nx][ny] != 0:
-            #         queue.append((nx, ny))
-            #         visited[nx][ny] = True
-            #         back_x[nx][ny] = x
-            #         back_y[nx][ny] = y
-        # for line in back_x:
-        #     print(line)
-        # for line in back_y:
-        #     print(line)
-        # print()
+
     return False 
 
 def boom(x, y):
