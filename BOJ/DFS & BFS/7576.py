@@ -39,7 +39,6 @@ for i in range (n):
         ans = max(ans, grid[i][j])
 
 all_tomato = True
-
 for i in range (n):
     for j in range(m):
         if not visited[i][j] and grid[i][j] == 0:
