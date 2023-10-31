@@ -4,9 +4,10 @@
 
 ### week1 (11/01 ~ 11/07)
 
-|     |  #   |    Title    |                              Difficulty                              | Status | About |
-| :-: | :--: | :---------: | :------------------------------------------------------------------: | :----: | :---: |
-|  1  | 1931 | 회의실 배정 | ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |   ✅   |  BOJ  |
+|     |   #   |       Title        |                              Difficulty                              | Status | About |
+| :-: | :---: | :----------------: | :------------------------------------------------------------------: | :----: | :---: |
+|  1  | 1931  |    회의실 배정     | ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |   ✅   |  BOJ  |
+|  2  | 20923 | 숫자 할리갈리 게임 | ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |   ❌   |  BOJ  |
 
 <!--
 금: #D5A11E
