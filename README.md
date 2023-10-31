@@ -4,10 +4,9 @@
 
 ### week1 (11/01 ~ 11/07)
 
-|     |  #  | Title | Difficulty | Status | About |
-| :-: | :-: | :---: | :--------: | :----: | :---: |
-
-| 1 | 1931 | 회의실 배정 | ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) | | |
+|     |  #   |    Title    |                              Difficulty                              | Status | About |
+| :-: | :--: | :---------: | :------------------------------------------------------------------: | :----: | :---: |
+|  1  | 1931 | 회의실 배정 | ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |        |       |
 
 <!--
 금: #D5A11E
