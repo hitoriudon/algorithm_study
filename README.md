@@ -4,13 +4,16 @@
 
 ### week1 (11/01 ~ 11/07)
 
-|     |   #   |       Title        |                              Difficulty                              | Status |   About   |
-| :-: | :---: | :----------------: | :------------------------------------------------------------------: | :----: | :-------: |
-|  1  | 1931  |    회의실 배정     | ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |   ✅   |    BOJ    |
-|  2  | 20923 | 숫자 할리갈리 게임 | ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat) |   ❌   |    BOJ    |
-|  3  | 14890 |       경사로       | ![Python](https://img.shields.io/badge/GOLD%20III-D5A11E?style=flat) |   ✅   | BOJ(삼성) |
-|  4  | 1439  |       뒤집기       | ![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) |   ✅   |    BOJ    |
-|  5  | 7576  |       토마토       |  ![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)  |   ✅   |    BOJ    |
+|     |   #   |       Title        |                               Difficulty                               | Status |   About   |
+| :-: | :---: | :----------------: | :--------------------------------------------------------------------: | :----: | :-------: |
+|  1  | 1931  |    회의실 배정     |  ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat)  |   ✅   |    BOJ    |
+|  2  | 20923 | 숫자 할리갈리 게임 |  ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat)  |   ❌   |    BOJ    |
+|  3  | 14890 |       경사로       |  ![Python](https://img.shields.io/badge/GOLD%20III-D5A11E?style=flat)  |   ✅   | BOJ(삼성) |
+|  4  | 1439  |       뒤집기       |  ![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)  |   ✅   |    BOJ    |
+|  5  | 7576  |       토마토       |   ![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)   |   ✅   |    BOJ    |
+|  6  | 13417 |    카드 문자열     | ![Python](https://img.shields.io/badge/SILVER%20III-D5A11E?style=flat) |   ✅   |    BOJ    |
+|  7  | 18115 |     카드 놓기      | ![Python](https://img.shields.io/badge/SILVER%20III-D5A11E?style=flat) |   ✅   |    BOJ    |
+|  8  | 1697  |      숨바꼭질      |  ![Python](https://img.shields.io/badge/SILVER%20I-D5A11E?style=flat)  |   ✅   |    BOJ    |
 
 <!--
 금: #D5A11E
