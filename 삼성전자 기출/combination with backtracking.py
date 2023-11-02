@@ -7,13 +7,14 @@ arr = []
 print("\n******************************")
 print(str(n) + "개 중 최대 " + str(m) + "개를 뽑는 백트래킹 조합")
 def f1(level, begin):
-    if level == m:
-        print(arr)
+    if level == n:
+        if 1 <= len(arr) <= m:
+            print(arr)
         return
-    for i in range (begin, n):
-        arr.append(i)
-        f1(level + 1, i + 1)
-        arr.pop()
+    
+    arr.append(begin)
+    f1(level + 1, begin + 1)
+    arr.pop()
     f1(level + 1, begin + 1)
 f1(0,0)
 

@@ -14,6 +14,8 @@
 |  6  | 13417 |    카드 문자열     | ![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |   ✅   |    BOJ    |
 |  7  | 18115 |     카드 놓기      | ![Python](https://img.shields.io/badge/SILVER%20III-A3A3A3?style=flat) |   ✅   |    BOJ    |
 |  8  | 1697  |      숨바꼭질      |  ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat)  |   ✅   |    BOJ    |
+|  9  | 14891 |      톱니바퀴      |   ![Python](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat)   |   ✅   | BOJ(삼성) |
+| 10  | 15686 |     치킨 배달      |   ![Python](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat)   |   ✅   | BOJ(삼성) |
 
 <!--
 금: #D5A11E
