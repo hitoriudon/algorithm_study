@@ -16,6 +16,7 @@
 |  8  | 1697  |      숨바꼭질      |  ![Python](https://img.shields.io/badge/SILVER%20I-A3A3A3?style=flat)  |   ✅   |    BOJ    |
 |  9  | 14891 |      톱니바퀴      |   ![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)   |   ✅   | BOJ(삼성) |
 | 10  | 15686 |     치킨 배달      |   ![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)   |   ✅   | BOJ(삼성) |
+| 11  | 7579  |       토마토       |   ![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)   |   ✅   |    BOJ    |
 
 <!--
 금: #D5A11E
