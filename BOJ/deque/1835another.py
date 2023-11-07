@@ -1,11 +1,12 @@
 from collections import deque
 
 n = int(input())
-que = deque([i + 1 for i in range (n)])
+dq = deque()
 
-i = 1
-while len(que):
-    que.rotate(-i)
-    print(que.popleft(), end= " ")
-    i += 1
+dq.append(n)
+
+for i in range (n - 1, 0, -1):
+    dq.appendleft(i)
+    dq.rotate(i)
     
+print(*dq)
