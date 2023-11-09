@@ -19,9 +19,11 @@
 |  9  | 14891 |      톱니바퀴      |   ![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)   |   ✅   | BOJ(삼성) |
 | 10  | 15686 |     치킨 배달      |   ![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)   |   ✅   | BOJ(삼성) |
 | 11  | 7579  |       토마토       |   ![Python](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat)   |   ✅   |    BOJ    |
-| 12  | 11724 |  연결 요소의 개수  | ![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat)  |        |    BOJ    |
 
 ### week2 (11/08 ~ 11/14)
+
+| 1 | 11724 | 연결 요소의 개수 | ![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) | | BOJ |
+| 2 | 2941 | 크로아티아 알파벳 | ![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) | ✅ | BOJ |
 
 ### START: 1020
 
