@@ -22,8 +22,10 @@
 
 ### week2 (11/08 ~ 11/14)
 
-| 1 | 11724 | 연결 요소의 개수 | ![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) | | BOJ |
-| 2 | 2941 | 크로아티아 알파벳 | ![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat) | ✅ | BOJ |
+|     |   #   |       Title       |                              Difficulty                               | Status | About |
+| :-: | :---: | :---------------: | :-------------------------------------------------------------------: | :----: | :---: |
+|  1  | 11724 | 연결 요소의 개수  | ![Python](https://img.shields.io/badge/SILVER%20II-A3A3A3?style=flat) |        |  BOJ  |
+|  2  | 2941  | 크로아티아 알파벳 | ![Python](https://img.shields.io/badge/SILVER%20V-A3A3A3?style=flat)  |   ✅   |  BOJ  |
 
 ### START: 1020
 
